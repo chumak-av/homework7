@@ -179,6 +179,14 @@ body {
     resize: none;
 }
 
+.input-l:required {
+    border: 1px solid red;
+}
+
+.input-r:required {
+    border: 1px solid red;
+}
+
 .button {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
